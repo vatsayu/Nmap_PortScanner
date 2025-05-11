@@ -20,5 +20,7 @@ This is a simple Bash script that automates the process of scanning a target usi
 
 ### 1. Clone the repository or download the script: 
 
-git clone https://github.com/your-username/automated-nmap-scanner.git
+git clone https://github.com/<link>
 cd automated-nmap-scanner
+chmod +x scan.sh
+run bash or ./scan.sh
