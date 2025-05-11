@@ -31,10 +31,11 @@ cd automated-nmap-scanner
 chmod +x scan.sh
 run bash or ./scan.sh
 
-## Screenshot of the result From Different IPs and Domain
+##  Result From different IPs and Domain
 
-
-
+> PING SCAN
+> OS DETECTION
+> PORT SCAN
 
 
 
