@@ -21,6 +21,43 @@ This is a simple Bash script that automates the process of scanning a target usi
 ### 1. Clone the repository or download the script: 
 
 git clone https://github.com/<link>
+
+## 2. Running the scipt 
+
 cd automated-nmap-scanner
+
+## 3. Give permission to script 
+
 chmod +x scan.sh
 run bash or ./scan.sh
+
+## Screenshot of the result From Different IPs and Domain
+
+
+
+
+
+
+
+
+![Screenshot_2025-05-11_12_57_58](https://github.com/user-attachments/assets/d875e9a0-36de-4396-910e-e3e2dbcb9338)
+
+
+
+
+
+![Screenshot_2025-05-11_12_57_07](https://github.com/user-attachments/assets/8f545c6b-8887-49ec-b1bb-645c370245ad)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
